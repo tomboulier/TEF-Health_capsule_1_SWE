@@ -66,6 +66,8 @@ but to show how a working prototype can evolve into code that is modular, testab
 
 **Ressources:** [Pro Git Book](https://git-scm.com/book/en/v2), [The Version Control Book](https://lennartwittkuhn.com/version-control-book/), [Version Control with Git - a software carpentry lesson](https://swcarpentry.github.io/git-novice/)
 
+**Running example:** you can find the code of this capsule on a git repository at https://github.com/tomboulier/HelloWorld-ML-MedicalImaging
+
 
 ---
 
