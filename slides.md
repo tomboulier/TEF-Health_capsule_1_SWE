@@ -61,8 +61,7 @@ but to show how a working prototype can evolve into code that is modular, testab
 **Definition:** a system to track changes, restore previous states, and collaborate efficiently   ([Git documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control))
 
 - Git is the standard for code versioning  
-- Git is not suited for large binaries or datasets  
-  → tools like [DVC](https://dvc.org) or [Git LFS](https://git-lfs.com) handle data/models  
+- For binaries, datasets, models: use tools like [DVC](https://dvc.org) or [Git LFS](https://git-lfs.com)  
 
 **Ressources:** [Pro Git Book](https://git-scm.com/book/en/v2), [The Version Control Book](https://lennartwittkuhn.com/version-control-book/), [Version Control with Git - a software carpentry lesson](https://swcarpentry.github.io/git-novice/)
 
