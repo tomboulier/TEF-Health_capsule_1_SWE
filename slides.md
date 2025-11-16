@@ -55,12 +55,16 @@ but to show how a working prototype can evolve into code that is modular, testab
 
 ---
 
-## 1. Version Control
+## 1. Use a Version Control System (VCS)
 
-- Git for code history and collaboration  
-- DVC (or equivalent) for large datasets  
-- CI to automate tests and checks  
-- **Aim:** stability and traceability
+**Definition:** a system to track changes, restore previous states, and collaborate efficiently   ([Git documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control))
+
+- Git is the standard for code versioning  
+- Git is not suited for large binaries or datasets  
+  → tools like [DVC](https://dvc.org) or [Git LFS](https://git-lfs.com) handle data/models  
+
+**Ressources:** [Pro Git Book](https://git-scm.com/book/en/v2), [The Version Control Book](https://lennartwittkuhn.com/version-control-book/), [Version Control with Git - a software carpentry lesson](https://swcarpentry.github.io/git-novice/)
+
 
 ---
 
