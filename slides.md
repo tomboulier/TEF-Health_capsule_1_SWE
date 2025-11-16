@@ -19,7 +19,7 @@ Thomas Boulier (MD, PhD) – Grenoble University Hospital, France
   ([Varoquaux *et al.*, Nat Med 2022](https://www.nature.com/articles/s41746-022-00592-y))
   
 - Early-stage ML code often lacks reproducibility  
-  ([Heil *et al.*, Nat Methods 2021](https://www.nature.com/articles/s41592-021-01256-7))  
+  ([Matthew B. A. McDermott *et al.*, Sci Transl Med 2021](https://www.science.org/doi/10.1126/scitranslmed.abb1655))  
 - Typical blockers: unavailable data, unstable dependencies, unclear workflows,  
   hard-to-reproduce or hard-to-maintain code
 
