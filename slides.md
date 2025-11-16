@@ -14,36 +14,16 @@ Thomas Boulier (MD, PhD) – Grenoble University Hospital, France
 
 ## Context: Why This Matters
 
-- AI adoption in hospitals remains limited.
-- Many ML models stop at the prototype stage.
-- Key blockers:
-  - Poor reproducibility
-  - Fragile dependencies and workflows
-  - Hard-to-maintain research code
-- Scientific standards now require:
-  - Published data, models, and code
-  - One-command environment setup
-  - End-to-end reproducibility (Heil et al., Nat Methods 2021)
 
----
+- AI in healthcare struggles to move beyond prototypes  
+  *(Varoquaux et al., Nat Med 2022)*  
+- Early-stage ML code often lacks reproducibility  
+  *(Heil et al., Nat Methods 2021)*  
+- Typical blockers: unstable dependencies, unclear workflows,  
+  hard-to-reproduce or hard-to-maintain code
 
-## Reproducibility Starts at the Prototype Stage
-
-- Code quality degrades over time.
-- Prototyping practices influence:
-  - research reproducibility
-  - clinical deployability
-  - startup viability
-- Goal: simple habits that scale with time and teams.
-
----
-
-## Objective of This Capsule
-
-**Give 6 practical keys to move from exploratory code  
-to reproducible, maintainable ML projects in healthcare.**
-
-Not perfection — just realistic, impactful steps.
+**Goal of this capsule:**  
+Practical steps toward reproducible and maintainable ML projects.
 
 ---
 
