@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: default
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
