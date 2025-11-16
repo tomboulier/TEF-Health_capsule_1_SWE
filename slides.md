@@ -30,13 +30,17 @@ Practical steps toward reproducible and maintainable ML projects.
 
 ## A Simple Running Example
 
-- The *"HelloWorld Deep Learning"* notebook  
-- Well-written, clear, and fully reproducible  
-- We use it only to illustrate:
-  - modularisation
-  - configuration
-  - testing
-  - maintainability
+We start from the **“Hello World Deep Learning in Medical Imaging”** tutorial:   ([Lakhani *et al.*, J Digit Imaging 2018](https://link.springer.com/article/10.1007/s10278-018-0079-6))
+
+- X-ray classification using transfer learning (InceptionV3)
+- Well-written code, and *fully reproducible*  
+- Shared as a Jupyter notebook with open data and source code:  
+  https://github.com/paras42/Hello_World_Deep_Learning
+
+We use it as a **running example** not to improve the model,  
+but to show how a working prototype can evolve into code that is modular, testable, and easy to maintain as a team.
+
+
 
 ---
 
