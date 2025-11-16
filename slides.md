@@ -44,7 +44,7 @@ but to show how a working prototype can evolve into code that is modular, testab
 
 ---
 
-# The 6 Fundamental Building Blocks
+# The 7 Fundamental Building Blocks
 
 1. Version Control  
 2. Environment Management  
@@ -52,6 +52,7 @@ but to show how a working prototype can evolve into code that is modular, testab
 4. Testing  
 5. Logging  
 6. Modular Code
+7. Documentation
 
 ---
 
@@ -111,6 +112,15 @@ but to show how a working prototype can evolve into code that is modular, testab
 - Clear separation of responsibilities  
 - Inspired by Clean Code & design patterns  
 - **Aim:** readability, maintainability, reusability
+
+---
+
+## 7. Documentation
+
+- Clear, concise, and up-to-date  
+- Use docstrings and external docs  
+- Helps onboarding and collaboration  
+- **Aim:** knowledge sharing and project longevity
 
 ---
 
