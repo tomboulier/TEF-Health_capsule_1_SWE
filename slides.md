@@ -46,6 +46,13 @@ but to show how a working prototype can evolve into code that is modular, testab
 
 # The 6 Fundamental Building Blocks
 
+1. Version Control  
+2. Environment Management  
+3. Configuration  
+4. Testing  
+5. Logging  
+6. Modular Code
+
 ---
 
 ## 1. Version Control
