@@ -6,7 +6,7 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-# From Prototype to Reproducible & Maintainable Medical AI
+# From Prototype to Reproducible & Maintainable Scientific Code in Healthcare
 
 Thomas Boulier (MD, PhD) – Grenoble University Hospital, France
 
@@ -16,10 +16,11 @@ Thomas Boulier (MD, PhD) – Grenoble University Hospital, France
 
 
 - AI in healthcare struggles to move beyond prototypes  
-  *(Varoquaux et al., Nat Med 2022)*  
+  ([Varoquaux *et al.*, Nat Med 2022](https://www.nature.com/articles/s41746-022-00592-y))
+  
 - Early-stage ML code often lacks reproducibility  
-  *(Heil et al., Nat Methods 2021)*  
-- Typical blockers: unstable dependencies, unclear workflows,  
+  ([Heil *et al.*, Nat Methods 2021](https://www.nature.com/articles/s41592-021-01256-7))  
+- Typical blockers: unavailable data, unstable dependencies, unclear workflows,  
   hard-to-reproduce or hard-to-maintain code
 
 **Goal of this capsule:**  
