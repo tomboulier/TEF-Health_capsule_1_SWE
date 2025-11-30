@@ -30,7 +30,7 @@ Practical steps toward reproducible and maintainable ML projects.
 
 ## A Simple Running Example
 
-We start from the **“Hello World Deep Learning in Medical Imaging”** tutorial:   ([Lakhani *et al.*, J Digit Imaging 2018](https://link.springer.com/article/10.1007/s10278-018-0079-6))
+We start from the **“Hello World Deep Learning in Medical Imaging”** tutorial: [Lakhani *et al.*, J Digit Imaging 2018](https://link.springer.com/article/10.1007/s10278-018-0079-6)
 
 - X-ray classification using transfer learning (InceptionV3)
 - Well-written code, and *fully reproducible*  
